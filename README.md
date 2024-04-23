@@ -1,5 +1,5 @@
 # ekkent.github.io
-# Data Scientist
+# Business Analytics
 
 #### Technical Skills: Python, SQL, Excel
 
